@@ -1,0 +1,12 @@
+{
+  "name": "matheussantosdesousacosta_2324291037_2bb_ativadade03",
+  "version": "1.0.0",
+  "description": "Meu Projeto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
